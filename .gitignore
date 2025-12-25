@@ -1,2 +1,16 @@
-/node_modules
+# env
 .env
+
+# dependencies
+node_modules/
+
+# logs
+logs/
+
+# database
+data/
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
