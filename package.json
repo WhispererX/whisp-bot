@@ -1,0 +1,21 @@
+{
+  "name": "whisp-bot",
+  "version": "1.0.0",
+  "description": "All-purpose general discord bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy-commands": "node scripts/deploy-commands.js"
+  },
+  "keywords": [],
+  "author": "Whisperer",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "chalk": "^5.6.2",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "winston": "^3.19.0"
+  }
+}

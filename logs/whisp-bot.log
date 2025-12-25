@@ -1,0 +1,22 @@
+[2025-12-25T18:29:58.031Z] [INFO]: Registering 1 slash commands...
+[2025-12-25T18:29:58.296Z] [INFO]: 1 slash commands registered.
+[2025-12-25T18:31:19.642Z] [WARN]: Warning: No command export found in bot/bot.command.js
+[2025-12-25T18:31:19.645Z] [WARN]: Warning: No command export found in config/config.command.js
+[2025-12-25T18:31:19.646Z] [WARN]: Warning: No command export found in eco/eco.command.js
+[2025-12-25T18:31:19.647Z] [WARN]: Warning: No command export found in fun/fun.command.js
+[2025-12-25T18:31:19.648Z] [WARN]: Warning: No command export found in mod/mod.command.js
+[2025-12-25T18:31:19.649Z] [WARN]: Warning: No command export found in music/music.command.js
+[2025-12-25T18:31:19.652Z] [WARN]: Warning: No command export found in role/role.command.js
+[2025-12-25T18:31:19.653Z] [WARN]: Warning: No command export found in user/user.command.js
+[2025-12-25T18:31:19.654Z] [WARN]: Warning: No command export found in xp/xp.command.js
+[2025-12-25T18:31:20.530Z] [INFO]: Logged in as Whisp Bot#4357
+[2025-12-25T18:34:19.802Z] [WARN]: Warning: No command export found in bot/bot.command.js
+[2025-12-25T18:34:19.805Z] [WARN]: Warning: No command export found in config/config.command.js
+[2025-12-25T18:34:19.806Z] [WARN]: Warning: No command export found in eco/eco.command.js
+[2025-12-25T18:34:19.807Z] [WARN]: Warning: No command export found in fun/fun.command.js
+[2025-12-25T18:34:19.808Z] [WARN]: Warning: No command export found in mod/mod.command.js
+[2025-12-25T18:34:19.809Z] [WARN]: Warning: No command export found in music/music.command.js
+[2025-12-25T18:34:19.812Z] [WARN]: Warning: No command export found in role/role.command.js
+[2025-12-25T18:34:19.813Z] [WARN]: Warning: No command export found in user/user.command.js
+[2025-12-25T18:34:19.814Z] [WARN]: Warning: No command export found in xp/xp.command.js
+[2025-12-25T18:34:20.567Z] [INFO]: Logged in as Whisp Bot#4357
